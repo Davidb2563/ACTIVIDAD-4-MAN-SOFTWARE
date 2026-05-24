@@ -7,7 +7,7 @@
 | **Quiero** | Registrar el préstamo de libros a los usuarios |
 | **Para** | Llevar un control organizado de los ejemplares prestados y sus fechas de devolución |
 | **Prioridad** | Alta |
-| **Estado** | En Desarrollo |
+| **Estado** | Finalizado |
 | **Responsable** | David Andres Buelvas Padilla |
 
 ---
