@@ -24,3 +24,5 @@
 | CA-06 | El sistema debe mostrar un mensaje de confirmación al finalizar el registro |
 
 ---
+
+
