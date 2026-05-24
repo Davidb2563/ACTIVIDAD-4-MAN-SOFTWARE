@@ -1,0 +1,24 @@
+# Historia de Usuario Gestión de Bibliotecas - 02
+
+| Campo | Descripción |
+| --- | --- |
+| *Título* | Registro de libros |
+| *Como* | Administrador del sistema |
+| *Quiero* | Registrar nuevos libros en la biblioteca |
+| *Párrafo* | Mantener actualizado el catálogo de libros disponibles |
+| *Prioridad* | Alta |
+| *Estado* | En desarrollo |
+| *Responsable* | Tu nombre |
+
+---
+
+## Criterios de aceptación
+
+| ID | Criterio |
+| --- | --- |
+| CA-01 | El sistema debe permitir registrar el título del libro |
+| CA-02 | El sistema debe permitir registrar el autor |
+| CA-03 | El sistema debe registrar el ISBN |
+| CA-04 | El sistema debe registrar la categoría |
+| CA-05 | El libro debe guardarse correctamente |
+| CA-06 | El sistema debe mostrar mensaje de confirmación |
